@@ -21,7 +21,7 @@ This application require npm i to be run, as well as npm i mysql.
 
 ## Screenshot
 
-
+  ![Front Page Gif]()
 
 
 ## Questions
