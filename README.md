@@ -11,12 +11,12 @@
 
 ## Description 
 
-This application allows a business owner to view, add, and delete employees, roles and departments.  
+This application allows a business owner to view, add, and delete employees, roles and departments. It was created to run in the command line and requires the user to have MYSQL installed. 
 
 
 ## Usage 
 
-
+This application require npm i to be run, as well as npm i mysql. 
 
 
 ## Screenshot
